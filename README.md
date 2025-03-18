@@ -17,7 +17,7 @@ npm i -g @nestjs/cli
 ```
 docker-compose up -d
 ```
-5. Leventar el proyecto
+5. Levantar el proyecto
 ```
 npm run start:dev
 ```
